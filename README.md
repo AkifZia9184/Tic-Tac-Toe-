@@ -1,2 +1,2 @@
-# Tic-Tac-Toe-
-implementation of Tic Tac Toe using AI algorithms (Python)
+# Tic-Tac-Toe
+Implementation of Tic Tac Toe using AI algorithms (Python)
